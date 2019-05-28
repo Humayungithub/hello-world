@@ -1,2 +1,4 @@
 # hello-world
-hello-world repository //Following the tradition using java
+
+hello !
+welcome to this hello-world repository.
